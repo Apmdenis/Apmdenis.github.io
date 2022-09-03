@@ -2,7 +2,6 @@
    background-color: #FFFF00; 
 }
 h1 {
-    font: Arial;
-    font-size: larger;
+    font: Arial, sans-serif;
     font-weight: bold;
 }
