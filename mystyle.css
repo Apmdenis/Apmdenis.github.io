@@ -1,7 +1,6 @@
  body, head {
-   background-color: #FFFF00; 
+   background-color: #b09c94; 
 }
-h1 {
-    font: Arial, sans-serif;
-    font-weight: bold;
+.font {
+    font-family: 'Courier New', Courier, monospace;
 }
