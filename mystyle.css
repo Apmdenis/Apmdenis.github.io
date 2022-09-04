@@ -1,6 +1,12 @@
  body, head {
    background-color: #b09c94;
    text-align: center;
+   display: inline-block;
+
+}
+center {
+  text-align: center;
+  display: inline-block;
 }
 font {
     font-family: 'Courier New', Courier, monospace;
