@@ -1,14 +1,10 @@
  body, head {
-   background-color: #b09c94; 
+   background-color: #b09c94;
+   text-align: center;
 }
-.font {
+font {
     font-family: 'Courier New', Courier, monospace;
-    color: black;
-}
-.center {
-  display: block;
-  margin-left: 200px;
-  margin-right: 200px;
+    color: lightslategrey;
 }
 
 h1 {
