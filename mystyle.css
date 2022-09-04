@@ -1,14 +1,14 @@
  body, head {
    background-color: #b09c94;
-   text-align: center;
-   display: inline-block;
+ /*  text-align: center;
+   display: inline-block;*/
 
 }
-center {
+.center {
   text-align: center;
   display: inline-block;
 }
-font {
+.font {
     font-family: 'Courier New', Courier, monospace;
     color: lightslategrey;
 }
