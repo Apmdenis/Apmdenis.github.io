@@ -7,10 +7,12 @@
 center {
   text-align: center;
   display: inline-block;
+  padding-left: 300px;
+  padding-top: 50px;
 }
 font {
     font-family: 'Courier New', Courier, monospace;
-    color: lightslategrey;
+    color: black;
 }
 
 h1 {
