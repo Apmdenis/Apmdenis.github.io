@@ -4,11 +4,11 @@
    display: inline-block;*/
 
 }
-.center {
+center {
   text-align: center;
   display: inline-block;
 }
-.font {
+font {
     font-family: 'Courier New', Courier, monospace;
     color: lightslategrey;
 }
