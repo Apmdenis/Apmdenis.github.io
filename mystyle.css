@@ -4,13 +4,13 @@
    display: inline-block;*/
 
 }
-center {
+.center {
   text-align: center;
   display: inline-block;
   padding-left: 300px;
   padding-top: 50px;
 }
-font {
+.font {
     font-family: 'Courier New', Courier, monospace;
     color: black;
 }
